@@ -13,6 +13,13 @@ Jing Demo:
 
 http://screencast.com/t/UKIv4QGjL
 
+## References (Apologies I had forgotten the sources) 
+*http://php.net/manual/en/control-structures.for.php
+*http://php.net/manual/en/function.substr.php
+*http://php.net/manual/en/function.mt-rand.php
+
+
+
 
 ## Details for teaching team
 * No login required
